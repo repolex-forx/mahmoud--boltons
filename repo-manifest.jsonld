@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mahmoud/boltons/commit/4e5faa3d7e4008d89e0d8bf1ea87b6d9a061a16d",
       "git:hexsha": "4e5faa3d7e4008d89e0d8bf1ea87b6d9a061a16d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mahmoud/boltons/commit/fc8e67edf1beeb95a82e14c5c16e97fc0bad3ba9",
